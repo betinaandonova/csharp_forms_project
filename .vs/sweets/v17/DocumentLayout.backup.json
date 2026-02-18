@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|c:\\users\\betin\\desktop\\3 \u043A\u0443\u0440\u0441\\c#\\sladkarnica\\sweets\\sweets\\updates\\updateo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\updates\\updateo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\updates\\updateo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\updates\\updateo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|c:\\users\\betin\\desktop\\3 \u043A\u0443\u0440\u0441\\c#\\sladkarnica\\sweets\\sweets\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|c:\\users\\betin\\desktop\\3 \u043A\u0443\u0440\u0441\\c#\\sladkarnica\\sweets\\sweets\\inserts\\inserta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\inserts\\inserta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\inserts\\inserta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\inserts\\inserta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|c:\\users\\betin\\desktop\\3 \u043A\u0443\u0440\u0441\\c#\\sladkarnica\\sweets\\sweets\\updates\\updateg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\updates\\updateg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|c:\\users\\betin\\desktop\\3 \u043A\u0443\u0440\u0441\\c#\\sladkarnica\\sweets\\sweets\\updates\\updateg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\updates\\updateg.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\betin\\AppData\\Local\\Temp\\s3x4swat..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|c:\\users\\betin\\desktop\\3 \u043A\u0443\u0440\u0441\\c#\\sladkarnica\\sweets\\sweets\\query\\fourthquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\query\\fourthquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\query\\fourthquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\query\\fourthquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|c:\\users\\betin\\desktop\\3 \u043A\u0443\u0440\u0441\\c#\\sladkarnica\\sweets\\sweets\\query\\thirdquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\query\\thirdquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\query\\thirdquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\query\\thirdquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|c:\\users\\betin\\desktop\\3 \u043A\u0443\u0440\u0441\\c#\\sladkarnica\\sweets\\sweets\\query\\secondquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\query\\secondquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\query\\secondquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\query\\secondquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|c:\\users\\betin\\desktop\\3 \u043A\u0443\u0440\u0441\\c#\\sladkarnica\\sweets\\sweets\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\updates\\updateg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\updates\\updateg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|c:\\users\\betin\\desktop\\3 \u043A\u0443\u0440\u0441\\c#\\sladkarnica\\sweets\\sweets\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\query\\firstquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\query\\firstquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|c:\\users\\betin\\desktop\\3 \u043A\u0443\u0440\u0441\\c#\\sladkarnica\\sweets\\sweets\\query\\firstquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\query\\firstquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|c:\\users\\betin\\desktop\\3 \u043A\u0443\u0440\u0441\\c#\\sladkarnica\\sweets\\sweets\\updates\\updatea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\updates\\updatea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\updates\\updatea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87E88795-E18C-4AE5-AF74-C2CC7439634F}|sweets\\sweets.csproj|solutionrelative:sweets\\updates\\updatea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 852,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Main.cs",
+              "RelativeDocumentMoniker": "sweets\\Main.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Main.cs",
+              "RelativeToolTip": "sweets\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T00:32:55.118Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "s3x4swat..sql",
+              "DocumentMoniker": "C:\\Users\\betin\\AppData\\Local\\Temp\\s3x4swat..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\s3x4swat..sql",
+              "ToolTip": "C:\\Users\\betin\\AppData\\Local\\Temp\\s3x4swat..sql",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\s3x4swat..sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-08T08:22:02.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateO.cs",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateO.cs",
+              "RelativeDocumentMoniker": "sweets\\Updates\\UpdateO.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateO.cs",
+              "RelativeToolTip": "sweets\\Updates\\UpdateO.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIA/wJEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:14:43.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateO.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateO.cs",
+              "RelativeDocumentMoniker": "sweets\\Updates\\UpdateO.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateO.cs [Design]",
+              "RelativeToolTip": "sweets\\Updates\\UpdateO.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:14:41.877Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateG.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateG.Designer.cs",
+              "RelativeDocumentMoniker": "sweets\\Updates\\UpdateG.Designer.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateG.Designer.cs",
+              "RelativeToolTip": "sweets\\Updates\\UpdateG.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAEwGsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:12:56.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateG.cs",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateG.cs",
+              "RelativeDocumentMoniker": "sweets\\Updates\\UpdateG.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateG.cs",
+              "RelativeToolTip": "sweets\\Updates\\UpdateG.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAMwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:12:21.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "fourthQuery.cs",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\fourthQuery.cs",
+              "RelativeDocumentMoniker": "sweets\\Query\\fourthQuery.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\fourthQuery.cs",
+              "RelativeToolTip": "sweets\\Query\\fourthQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:41:14.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "thirdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\thirdQuery.cs",
+              "RelativeDocumentMoniker": "sweets\\Query\\thirdQuery.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\thirdQuery.cs",
+              "RelativeToolTip": "sweets\\Query\\thirdQuery.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAIAwwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:38:31.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "secondQuery.cs",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\secondQuery.cs",
+              "RelativeDocumentMoniker": "sweets\\Query\\secondQuery.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\secondQuery.cs",
+              "RelativeToolTip": "sweets\\Query\\secondQuery.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAlwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:37:15.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "firstQuery.cs",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\firstQuery.cs",
+              "RelativeDocumentMoniker": "sweets\\Query\\firstQuery.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\firstQuery.cs",
+              "RelativeToolTip": "sweets\\Query\\firstQuery.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAArwB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:35:24.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fourthQuery.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\fourthQuery.cs",
+              "RelativeDocumentMoniker": "sweets\\Query\\fourthQuery.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\fourthQuery.cs [Design]",
+              "RelativeToolTip": "sweets\\Query\\fourthQuery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:32:27.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "firstQuery.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\firstQuery.cs",
+              "RelativeDocumentMoniker": "sweets\\Query\\firstQuery.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\firstQuery.cs [Design]",
+              "RelativeToolTip": "sweets\\Query\\firstQuery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:32:24.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "sweets\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Properties\\Resources.resx",
+              "RelativeToolTip": "sweets\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-08T06:29:49.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "sweets\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "sweets\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:29:29.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateA.cs",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateA.cs",
+              "RelativeDocumentMoniker": "sweets\\Updates\\UpdateA.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateA.cs",
+              "RelativeToolTip": "sweets\\Updates\\UpdateA.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T06:29:22.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertA.cs",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Inserts\\InsertA.cs",
+              "RelativeDocumentMoniker": "sweets\\Inserts\\InsertA.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Inserts\\InsertA.cs",
+              "RelativeToolTip": "sweets\\Inserts\\InsertA.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwFwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:37:39.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsertA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Inserts\\InsertA.cs",
+              "RelativeDocumentMoniker": "sweets\\Inserts\\InsertA.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Inserts\\InsertA.cs [Design]",
+              "RelativeToolTip": "sweets\\Inserts\\InsertA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T00:42:13.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "thirdQuery.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\thirdQuery.cs",
+              "RelativeDocumentMoniker": "sweets\\Query\\thirdQuery.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\thirdQuery.cs [Design]",
+              "RelativeToolTip": "sweets\\Query\\thirdQuery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T00:40:59.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "secondQuery.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\secondQuery.cs",
+              "RelativeDocumentMoniker": "sweets\\Query\\secondQuery.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Query\\secondQuery.cs [Design]",
+              "RelativeToolTip": "sweets\\Query\\secondQuery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T00:40:45.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateG.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateG.cs",
+              "RelativeDocumentMoniker": "sweets\\Updates\\UpdateG.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateG.cs [Design]",
+              "RelativeToolTip": "sweets\\Updates\\UpdateG.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T23:30:30.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateA.cs",
+              "RelativeDocumentMoniker": "sweets\\Updates\\UpdateA.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Updates\\UpdateA.cs [Design]",
+              "RelativeToolTip": "sweets\\Updates\\UpdateA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T00:33:02.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Main.cs",
+              "RelativeDocumentMoniker": "sweets\\Main.cs",
+              "ToolTip": "C:\\Users\\betin\\Desktop\\3 \u043A\u0443\u0440\u0441\\C#\\Sladkarnica\\sweets\\sweets\\Main.cs [Design]",
+              "RelativeToolTip": "sweets\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T00:06:43.771Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 900,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
