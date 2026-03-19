@@ -30,16 +30,19 @@
 - `update` – форми за редакция
 - `query` – заявки, отчети и графики
 
-## Screenshots
+## 📸 Screenshots
 
-### Insert Forms
-Форми за въвеждане на нови данни в таблиците.  
+<p align="center">
+  <img src="screenshots/mainform.png" width="400"/>
+  <img src="screenshots/insert.png" width="400"/>
+</p>
 
+<p align="center">
+  <img src="screenshots/update.png" width="400"/>
+  <img src="screenshots/queryorders.png" width="400"/>
+</p>
 
-### Update Forms
-Форми за актуализиране и редактиране на съществуващи записи.  
-
-
-### Query Forms
-Заявки, справки, отчети и графично представяне на резултатите.  
+<p align="center">
+  <img src="screenshots/graphics.png" width="400"/>
+</p> 
 
