@@ -32,17 +32,20 @@
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/mainform.png" width="400"/>
-  <img src="screenshots/insert.png" width="400"/>
-</p>
+## 📸 Screenshots
 
-<p align="center">
-  <img src="screenshots/update.png" width="400"/>
-  <img src="screenshots/queryorders.png" width="400"/>
-</p>
+### Main Form
+![Main Form](screenshots/mainform.png)
 
-<p align="center">
-  <img src="screenshots/graphics.png" width="400"/>
-</p> 
+### Insert Form
+![Insert](screenshots/insert.png)
+
+### Update Form
+![Update](screenshots/update.png)
+
+### Query Orders
+![Query](screenshots/queryorders.png)
+
+### Graphics
+![Graphics](screenshots/graphics.png)
 
